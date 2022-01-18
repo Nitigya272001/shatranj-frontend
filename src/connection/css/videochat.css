@@ -1,0 +1,33 @@
+.right-container {
+  height: 96vh;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  gap: 5%;
+}
+
+.my-video-container {
+  border: 3px solid rgb(246, 246, 248);
+  display:flex;
+  height:30%;
+  width:95%;
+}
+
+.partner-video-container {
+  border: 3px solid rgb(246, 246, 248);
+  display:flex;
+  height:50%;
+  width:95%;
+}
+
+.callButton {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
